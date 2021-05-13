@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AutoCompleteText</string>
+    <string-array name="auto">
+        <item>Ha Noi</item>
+        <item>Ha Nam</item>
+        <item>Ha Giang</item>
+        <item>Hai Phong</item>
+    </string-array>
+</resources>
